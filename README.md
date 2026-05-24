@@ -1,3 +1,4 @@
+![logo](https://github.com/kandikatla-akhil/kandikatla-akhil/blob/main/Red%20and%20Black%20Simple%20Modern%20Business%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm kandikatla-akhil</h1>
 <h3 align="center">A passionate python programmer from India</h3>
 
