@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kandikatla-akhil</h1>
 <h3 align="center">A passionate python programmer from India</h3>
 
-<img align="right"alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2p5ODZ2ZnIyNnc2MHpxNmZvemJwaHJ1OHd1NTF4ZGwzZWNtYmV2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right"alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamswNWZweGppcDM5dHFteDY3dzVmN3gzenM1M2UxNDFobmtrdTY5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kandikatla-akhil&label=Profile%20views&color=0e75b6&style=flat" alt="kandikatla-akhil" /> </p>
 
